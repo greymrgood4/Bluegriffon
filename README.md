@@ -214,4 +214,4 @@ BlueGriffon is offered as a full free version with all features and updates incl
 Start building your dream website today with BlueGriffon — the free, powerful, and user-friendly web editor!
 
 ---
-**Last updated:** 2026-09-27 20:57:30 UTC
+**Last updated:** 2026-09-27 23:43:26 UTC
